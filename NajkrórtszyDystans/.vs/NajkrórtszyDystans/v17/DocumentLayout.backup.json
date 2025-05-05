@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|c:\\xampp\\htdocs\\msi\\najkr\u00F3rtszydystans\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|c:\\xampp\\htdocs\\msi\\najkr\u00F3rtszydystans\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|c:\\xampp\\htdocs\\msi\\najkr\u00F3rtszydystans\\najkr\u00F3rtszydystans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1439D9D-0AF0-43B5-AA80-826311E41679}|Najkr\u00F3rtszyDystans.csproj|solutionrelative:najkr\u00F3rtszydystans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Najkr\u00F3rtszyDystans.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\Najkr\u00F3rtszyDystans.csproj",
+              "RelativeDocumentMoniker": "Najkr\u00F3rtszyDystans.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\Najkr\u00F3rtszyDystans.csproj",
+              "RelativeToolTip": "Najkr\u00F3rtszyDystans.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T13:21:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T12:26:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\MSI\\Najkr\u00F3rtszyDystans\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:26:27.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
